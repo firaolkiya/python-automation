@@ -1,0 +1,101 @@
+2025-06-13 06:49:04,501 [INFO] patching driver executable /home/ffaw/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-13 06:49:40,589 [INFO] Opened event page: http://127.0.0.1:5500/test_page.html
+2025-06-13 06:49:41,158 [ERROR] Error: Message: stale element reference: stale element not found
+  (Session info: chrome=137.0.7151.68); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x5a9b2a50fc9a <unknown>
+#1 0x5a9b29fb56e0 <unknown>
+#2 0x5a9b29fc8d8b <unknown>
+#3 0x5a9b29fc7b52 <unknown>
+#4 0x5a9b29fbcc99 <unknown>
+#5 0x5a9b29fbcdc5 <unknown>
+#6 0x5a9b29fbaecf <unknown>
+#7 0x5a9b29fbeef7 <unknown>
+#8 0x5a9b2a0542fe <unknown>
+#9 0x5a9b2a02ce32 <unknown>
+#10 0x5a9b2a0532cc <unknown>
+#11 0x5a9b2a02cc03 <unknown>
+#12 0x5a9b29ff947b <unknown>
+#13 0x5a9b29ffa0e1 <unknown>
+#14 0x5a9b2a4d444b <unknown>
+#15 0x5a9b2a4d837f <unknown>
+#16 0x5a9b2a4bbf89 <unknown>
+#17 0x5a9b2a4d8f18 <unknown>
+#18 0x5a9b2a4a06df <unknown>
+#19 0x5a9b2a4fd308 <unknown>
+#20 0x5a9b2a4fd4e6 <unknown>
+#21 0x5a9b2a50eb76 <unknown>
+#22 0x78fee549caa4 <unknown>
+#23 0x78fee5529c3c <unknown>
+
+2025-06-13 06:52:05,085 [INFO] patching driver executable /home/ffaw/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-13 06:52:20,780 [INFO] Opened event page: http://127.0.0.1:5500/test_page.html
+2025-06-13 06:52:21,442 [ERROR] Error: Message: stale element reference: stale element not found
+  (Session info: chrome=137.0.7151.55); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x654eee823c9a <unknown>
+#1 0x654eee2c96e0 <unknown>
+#2 0x654eee2dcd8b <unknown>
+#3 0x654eee2dbb52 <unknown>
+#4 0x654eee2d0c99 <unknown>
+#5 0x654eee2d0dc5 <unknown>
+#6 0x654eee2ceecf <unknown>
+#7 0x654eee2d2ef7 <unknown>
+#8 0x654eee3682fe <unknown>
+#9 0x654eee340e32 <unknown>
+#10 0x654eee3672cc <unknown>
+#11 0x654eee340c03 <unknown>
+#12 0x654eee30d47b <unknown>
+#13 0x654eee30e0e1 <unknown>
+#14 0x654eee7e844b <unknown>
+#15 0x654eee7ec37f <unknown>
+#16 0x654eee7cff89 <unknown>
+#17 0x654eee7ecf18 <unknown>
+#18 0x654eee7b46df <unknown>
+#19 0x654eee811308 <unknown>
+#20 0x654eee8114e6 <unknown>
+#21 0x654eee822b76 <unknown>
+#22 0x732b4049caa4 <unknown>
+#23 0x732b40529c3c <unknown>
+
+2025-06-13 06:55:03,703 [INFO] patching driver executable /home/ffaw/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-13 06:55:17,284 [INFO] Opened event page: http://127.0.0.1:5500/test_page.html
+2025-06-13 06:55:17,676 [ERROR] Error: Message: stale element reference: stale element not found
+  (Session info: chrome=137.0.7151.68); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+#0 0x64ffb0176c9a <unknown>
+#1 0x64ffafc1c6e0 <unknown>
+#2 0x64ffafc2fd8b <unknown>
+#3 0x64ffafc2eb52 <unknown>
+#4 0x64ffafc23c99 <unknown>
+#5 0x64ffafc21ecf <unknown>
+#6 0x64ffafc25c18 <unknown>
+#7 0x64ffafc25ca3 <unknown>
+#8 0x64ffafc68d3a <unknown>
+#9 0x64ffafc93e32 <unknown>
+#10 0x64ffafc61c7a <unknown>
+#11 0x64ffafc93ffe <unknown>
+#12 0x64ffafcba2cc <unknown>
+#13 0x64ffafc93c03 <unknown>
+#14 0x64ffafc6047b <unknown>
+#15 0x64ffafc610e1 <unknown>
+#16 0x64ffb013b44b <unknown>
+#17 0x64ffb013f37f <unknown>
+#18 0x64ffb0122f89 <unknown>
+#19 0x64ffb013ff18 <unknown>
+#20 0x64ffb01076df <unknown>
+#21 0x64ffb0164308 <unknown>
+#22 0x64ffb01644e6 <unknown>
+#23 0x64ffb0175b76 <unknown>
+#24 0x708569a9caa4 <unknown>
+#25 0x708569b29c3c <unknown>
+
+2025-06-13 07:03:59,287 [INFO] patching driver executable /home/ffaw/.local/share/undetected_chromedriver/undetected_chromedriver
+2025-06-13 07:04:06,629 [INFO] Opened event page: http://127.0.0.1:5500/test_page.html
+2025-06-13 07:04:06,633 [INFO] Target time reached: 07:04:00.000000
+2025-06-13 07:04:07,005 [WARNING] Stale element encountered, retrying...
+2025-06-13 07:04:07,410 [WARNING] Stale element encountered, retrying...
+2025-06-13 07:04:07,727 [WARNING] Stale element encountered, retrying...
+2025-06-13 07:04:08,187 [WARNING] Stale element encountered, retrying...
+2025-06-13 07:04:08,276 [INFO] Found booking URL: https://example.com/book?scheduleId=12345
+2025-06-13 07:04:22,361 [INFO] Clicked 'Book Now' button
